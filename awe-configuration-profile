@@ -1,0 +1,5 @@
+[profile adminuser]
+aws_access_key_id = adminuser access key ID
+aws_secret_access_key = adminuser secret access key
+region = aws-region
+format = json
